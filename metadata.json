@@ -1,6 +1,0 @@
-{
-  "name": "Birthday Surprise",
-  "description": "A magical, interactive, and beautifully animated multi-page birthday surprise filled with music, fireworks, floating balloons, memories, and personal wishes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
